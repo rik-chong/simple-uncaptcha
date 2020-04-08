@@ -1,2 +1,2 @@
 # simple-uncaptcha
-Very simple uncatpcha service using AIP
+Very simple uncaptcha service using AIP
